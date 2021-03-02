@@ -1,0 +1,3 @@
+Czynniki: 259
+Min: 6
+Max: 248667
